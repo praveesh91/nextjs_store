@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Next Storefront",
-  description: "A nifty store built with Nextjs",
+  title: "Next Store",
+  description: "A nifty store built with Next.js",
 };
 
 export default function RootLayout({
